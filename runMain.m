@@ -1,7 +1,8 @@
 %复现论文10.1186/s13634-023-01066-3 作者Chuanyun Ouyang1,2, Liming Cai2* , Bin Liu2 and Tianxiang Zhang1,2
 %代码作者：陈羿乔 Yiqiao Chen
-%日期：2024/4/27 - 
+%日期：2024/4/27 - 2024/4/27
 
+%论文中给的样本标准差计算公式好像不太适用，我自己调了个还可以的常数，后面会关注一下方差估计相关的文献
 
 clc; clear; close all;
 format compact; %命令行显示不换行
