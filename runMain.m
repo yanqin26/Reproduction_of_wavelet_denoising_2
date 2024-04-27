@@ -101,7 +101,7 @@ delta = 0.1;
 for level = 1 : 1 : 14
     %每一层计算该层的新阈值(我感觉这个阈值计算方式有问题)
     %sigma = sqrt(median(cD{level, 1}) / 0.6745);
-    sigma = 40;
+    sigma = 4;
     lambda_j = (sigma * sqrt(2 * log(length(rowPpg1)))) / log(level + 1);
     
     for index = 1 : 1 : length(cD{level, 1})
