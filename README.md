@@ -9,9 +9,9 @@ Reproduction of paper named An improved wavelet threshold denoising approach for
 
 ### 2.figure of denoising result
 
-![image-20240427132348500](README.assets/image-20240427132348500.png)
+![image-20240427133618104](README.assets/image-20240427133618104.png)
 
-![image-20240427132411142](README.assets/image-20240427132411142.png)
+![image-20240427133550103](README.assets/image-20240427133550103.png)
 
 
 
